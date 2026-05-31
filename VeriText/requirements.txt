@@ -1,5 +1,5 @@
 flask
+gunicorn
 scikit-learn
 language-tool-python
 python-docx
-gunicorn
